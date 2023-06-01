@@ -5,4 +5,4 @@ if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
 else:
     print(year, "년은 평년입니다.")
 
-#made by Dominicus0830
+#made by Dominicus0830.
